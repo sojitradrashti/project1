@@ -17,7 +17,7 @@ export default function Header() {
         <ul className='hidden md:flex text-white gap-10'>
           <li>Home</li>
           <li>Company</li>
-          <li>Resource</li>
+          <li>Services</li>
           <li>About</li>
           <li>Contact</li>
         </ul>
