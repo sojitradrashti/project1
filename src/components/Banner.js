@@ -17,8 +17,8 @@ function Banner() {
                     loop={true}
                     backSpeed={120}
                 />
-                
                 </div>
+                <button className='bg-black text-white p-3 rounded'>Get started</button>
         </div>
     </div>
   )
